@@ -1,18 +1,29 @@
+# _config.yml for your GitHub Pages site
+
 title: "Sentient Biotech Private Limited"
 description: "Neurotech and BCI Solutions"
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
-# Customization settings for dark theme
-markdown: kramdown
-
-# Set dark mode directly in the config
-minima:
+# Set dark mode for the Cayman theme
+cayman:
   skin: dark
+
+# Customization settings
+markdown: kramdown
 
 # Author settings (Optional)
 author:
   name: "Sentient Biotech Team"
   email: "contact@sentientbiotech.com"
 
+# Social links (Optional)
+social:
+  github: "https://github.com/SentientBiotech"
+  linkedin: "https://linkedin.com/company/sentientbiotech"
+
 # Other settings
 permalink: /:path/
+
+# Plugins (Optional, can add more later)
+plugins:
+  - jekyll-seo-tag
