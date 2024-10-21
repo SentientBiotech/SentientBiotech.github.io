@@ -1,35 +1,18 @@
-# Site settings
-title: Sentient Biotech
-description: Pioneering neurotechnology for holistic well-being
-url: "https://SentientBiotech.com"  # Replace with your actual URL
+title: "Sentient Biotech Private Limited"
+description: "Neurotech and BCI Solutions"
+theme: jekyll-theme-minimal
 
-# Theme settings
-theme: minima
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
-
-# Customization
-show_downloads: false
-google_analytics: # Add your Google Analytics Tracking ID here
-
-# Color scheme
-colors:
-  primary: "#007bff"  # A tech-friendly blue
-  secondary: "#6c757d"
-  background: "#f8f9fa"
-  text: "#212529"
-
-# Navigation
-header_pages:
-  - about.md
-  - products.md
-  - contact.md
-
-# Social links
-github_username: sentientbiotech
-linkedin_username: sentient-biotech
-twitter_username: sentientbiotech
-
-# Build settings
+# Customization settings for dark theme
 markdown: kramdown
+
+# Set dark mode directly in the config
+minima:
+  skin: dark
+
+# Author settings (Optional)
+author:
+  name: "Sentient Biotech Team"
+  email: "contact@sentientbiotech.com"
+
+# Other settings
+permalink: /:path/
