@@ -29,6 +29,8 @@ navigation:
     url: /product/
   - title: "What is BCI?"
     url: /what-is-bci/
+  - title: "Equilibrium Psychology for All"
+    url: /eqp-for-all/
 
 # Other settings
 permalink: /:path/
