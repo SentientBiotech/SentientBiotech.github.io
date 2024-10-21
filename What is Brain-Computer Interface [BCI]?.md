@@ -4,10 +4,6 @@ title: "What is BCI?"
 permalink: /what-is-bci/
 ---
 
-# What is BCI?
-Explain Brain-Computer Interface technology, how it works, its applications, and why it matters. Include visual aids, diagrams, etc.
-
-
 
 <div align="justify">
 
