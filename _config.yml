@@ -2,7 +2,7 @@
 title: "Sentient Biotech"
 description: "Innovating Brain-Computer Interface & Neurotechnology"
 baseurl: "" # Leave this empty unless your site is in a subfolder
-url: "https://sentientbiotech.github.io" # Update with your GitHub Pages URL
+url: "https://SentientBiotech.github.io" # Update with your GitHub Pages URL
 
 # Theme settings
 theme: jekyll-theme-slate  # A dark theme that will give your site a sleek look
