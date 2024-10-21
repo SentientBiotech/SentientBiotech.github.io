@@ -1,3 +1,12 @@
+---
+layout: page
+title: "Product"
+permalink: /product/
+---
+
+# Our Product
+
+
 <div align="justify">
 
 Our flagship product line integrates two essential components to revolutionize personal wellness:
