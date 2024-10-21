@@ -8,3 +8,5 @@ title: "Welcome to Sentient Biotech"
 ## [Products](/product/)
 
 ## [What is BCI?](/what-is-bci/)
+
+## [Equilibrium Psychology for All](eqp-for-all/)
