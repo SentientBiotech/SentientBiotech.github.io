@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Equiibrium Psychology [EqP] for All"
-permalink: /EqP-for-all/
+permalink: /eqp-for-all/
 ---
 
 <div align="justify">
