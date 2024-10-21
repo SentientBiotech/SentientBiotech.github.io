@@ -1,22 +1,30 @@
-# Site Settings
-title: Sentient Biotech Private Limited
-description: Neurotech solutions for mental and physical health
-baseurl: "" # Leave this blank for a root URL
-url: "https://sentientbiotech.github.io" # Your site's URL
+# Site settings
+title: "Sentient Biotech"
+description: "Innovating Brain-Computer Interface & Neurotechnology"
+baseurl: "" # Leave this empty unless your site is in a subfolder
+url: "https://sentientbiotech.github.io" # Update with your GitHub Pages URL
 
 # Theme settings
-remote_theme: pages-themes/cayman-dark@v0.2.0
-
-# To remove "View on GitHub"
+theme: jekyll-theme-slate  # A dark theme that will give your site a sleek look
 plugins:
-  - jekyll-optional-view-on-github
+  - jekyll-seo-tag  # For better SEO metadata
+  - jekyll-optional-view-on-github  # To remove "View on GitHub"
 
-# Header customization
+# Optional: Remove the default "View on GitHub" link
+exclude:
+  - "README.md"
+
+# Navigation menu (based on your sections)
 header_pages:
-  - about.md
-  - projects.md
-  - contact.md
+  - Equilibrium Pscychology [EqP].md
+  - Mental Health for All.md
+  - Product.md
+  - What is Brain-Computer Interface [BCI]?.md
 
-# Custom CSS
-custom_css:
-  - assets/css/style.css
+# Markdown options
+markdown: kramdown
+kramdown:
+  input: GFM  # GitHub Flavored Markdown
+
+# Build settings
+future: true
