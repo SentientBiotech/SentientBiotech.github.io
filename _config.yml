@@ -21,6 +21,15 @@ social:
   github: "https://github.com/SentientBiotech"
   linkedin: "https://linkedin.com/company/sentientbiotech"
 
+  # Navigation (Optional, add links to the new sections)
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Product"
+    url: /product/
+  - title: "What is BCI?"
+    url: /what-is-bci/
+
 # Other settings
 permalink: /:path/
 
