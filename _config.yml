@@ -1,6 +1,6 @@
 # Site settings
 title: Sentient Biotech
-description: Pioneering neurotechnology for holistic well-being
+description: Pioneering Neurotechnology for holistic well-being
 url: "https://sentientbiotech.github.io/"  # Replace with your actual URL
 
 # Theme settings
@@ -18,12 +18,6 @@ colors:
   secondary: "#6c757d"
   background: "#f8f9fa"
   text: "#212529"
-
-# Navigation
-header_pages:
-  - about.md
-  - products.md
-  - contact.md
 
 # Social links
 github_username: sentientbiotech
