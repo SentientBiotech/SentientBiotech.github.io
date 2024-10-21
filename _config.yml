@@ -1,30 +1,23 @@
 # Site settings
 title: Sentient Biotech
-description: Pioneering Neurotechnology for holistic well-being
-url: "https://sentientbiotech.github.io/"  # Replace with your actual URL
+description: Pioneering neurotechnology for holistic well-being
+url: "https://sentientbiotech.github.io//"  # Replace with your actual URL
 
 # Theme settings
-theme: minima
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-remote-theme
 
 # Customization
 show_downloads: false
 
-# Color scheme
-colors:
-  primary: "#007bff"  # A tech-friendly blue
-  secondary: "#6c757d"
-  background: "#f8f9fa"
-  text: "#212529"
-
-  # Navigation
+# Navigation
 header_pages:
   - Product.md
-  - What is Brain-Computer Interface [BCI]?.md
   - Equilibrium Psychology [EqP].md
+  - What is Brain-Computer Interface [BCI]?.md
   - Mental Health for All.md
+  - Contact Us.md
 
 # Social links
 github_username: sentientbiotech
@@ -33,3 +26,53 @@ twitter_username: sentientbiotech
 
 # Build settings
 markdown: kramdown
+
+# Custom CSS
+sass:
+  style: compressed
+
+# Custom styles
+custom_css: |
+  body {
+    background: #0a0a0a;
+    color: #e0e0e0;
+    font-family: 'Roboto', sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: #00ffff;
+    font-family: 'Orbitron', sans-serif;
+  }
+  a {
+    color: #00ffff;
+    transition: color 0.3s ease;
+  }
+  a:hover {
+    color: #ff00ff;
+  }
+  .wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  #header {
+    border-bottom: 1px solid #00ffff;
+  }
+  #header nav {
+    background: #0a0a0a;
+    font-family: 'Orbitron', sans-serif;
+  }
+  #header nav li a {
+    color: #00ffff;
+  }
+  #header nav li a:hover {
+    color: #ff00ff;
+  }
+  section {
+    background: #0f0f0f;
+    border: 1px solid #00ffff;
+    box-shadow: 0 0 10px #00ffff;
+  }
+  pre {
+    background: #1a1a1a;
+    border: 1px solid #00ffff;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto:wght@300;400;700&display=swap');
