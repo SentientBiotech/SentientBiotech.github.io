@@ -19,6 +19,13 @@ colors:
   background: "#f8f9fa"
   text: "#212529"
 
+  # Navigation
+header_pages:
+  - Product.md
+  - What is Brain-Computer Interface [BCI]?.md
+  - Equilibrium Psychology [EqP].md
+  - Mental Health for All.md
+
 # Social links
 github_username: sentientbiotech
 linkedin_username: sentient-biotech
