@@ -31,6 +31,8 @@ navigation:
     url: /what-is-bci/
   - title: "Equilibrium Psychology for All"
     url: /eqp-for-all/
+  - title: "Mental Health for All"
+    url: /mental-health-for-all/
 
 # Other settings
 permalink: /:path/
