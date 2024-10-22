@@ -24,3 +24,10 @@ title: "Welcome to Sentient Biotech"
   </div>
 
 </div>
+
+<!-- Contact Section -->
+<div style="position: fixed; bottom: 20px; right: 20px; background-color: #f7f7f7; padding: 10px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-size: 14px;">
+  <h4 style="margin: 0; color: #000;">Contact Us</h4>
+  <p style="margin: 5px 0;">Email: <a href="mailto:jasmeetsngh19@gmail.com">jasmeetsngh19@gmail.com</a></p>
+  <p style="margin: 5px 0;">Phone: +91-7070360676</p>
+</div>
