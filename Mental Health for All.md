@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Mental Health for All"
+permalink: /mental-health-for-all/
+---
+
 <div align="justify">
 
 At Sentient Biotech, we believe that mental health is a fundamental right, not a luxury. 
