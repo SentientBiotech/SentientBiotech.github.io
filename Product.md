@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Product"
+title: "Our Products"
+permalink: /product/
 ---
 
 <!-- Page Styling -->
