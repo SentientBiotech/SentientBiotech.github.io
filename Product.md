@@ -15,13 +15,13 @@ permalink: /product/
     <!-- Product 1 -->
     <div style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; margin-bottom: 20px; background-color: #1a1a1a;">
       <h2 style="color: #2ecc71;">EEG Headset</h2>
-      <p style="font-size: 16px; color: #bdc3c7;">Our EEG headset is a state-of-the-art neurofeedback device designed to monitor and optimize brain activity. It is non-invasive and provides real-time feedback for cognitive enhancement.</p>
+      <p style="font-size: 16px; color: #bdc3c7;">Our neuroimaging headset is a state-of-the-art neurofeedback device designed to monitor and optimize brain activity. It's non-invasive modalities provides real-time neurofeedback for the enhancement of mental, emotional and cognitive abilities.</p>
     </div>
 
     <!-- Product 2 -->
     <div style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; margin-bottom: 20px; background-color: #1a1a1a;">
-      <h2 style="color: #e74c3c;">Smart Wrist Wearable</h2>
-      <p style="font-size: 16px; color: #bdc3c7;">Our smart wrist wearable combines biofeedback with advanced sensors to track physical and mental well-being. It helps users manage stress, improve sleep, and monitor daily activity with ease.</p>
+      <h2 style="color: #2ecc71;">Smart Wrist Wearable</h2>
+      <p style="font-size: 16px; color: #bdc3c7;">Our smart wrist wearable combines biofeedback with advanced sensors to track and combine physical and mental well-being. It helps users manage stress, improve sleep, and monitor daily activities with ease.</p>
     </div>
 
   </div>
