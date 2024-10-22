@@ -7,7 +7,7 @@ permalink: /mental-health-for-all/
 <!-- Page Styling -->
 <div style="background-color: #fbe7f6; color: #4a148c; padding: 40px; min-height: 100vh;">
 
-  <h1 style="text-align: center; font-size: 36px; color: #9c27b0;">Mental Health for All</h1>
+  <h1 style="text-align: center; font-size: 36px; color: #000000;">Mental Health for All</h1>
 
   <div style="max-width: 900px; margin: 0 auto; text-align: justify; font-size: 18px; color: #6a1b9a;">
     
