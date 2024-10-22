@@ -1,19 +1,28 @@
 ---
-layout: page
+layout: default
 title: "Product"
-permalink: /product/
 ---
 
-# Our Product
+<!-- Page Styling -->
+<div style="background-color: #000000; color: #ffffff; min-height: 100vh; padding: 40px;">
 
+  <h1 style="text-align: center; font-size: 36px; color: #3498db;">Our Innovative Products</h1>
+  <p style="text-align: center; font-size: 18px; color: #ecf0f1;">At Sentient Biotech, we are dedicated to creating cutting-edge neurotech solutions to improve mental and physical well-being.</p>
 
-<div align="justify">
+  <div style="max-width: 900px; margin: 0 auto; padding: 20px;">
 
-Our flagship product line integrates two essential components to revolutionize personal wellness:
+    <!-- Product 1 -->
+    <div style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; margin-bottom: 20px; background-color: #1a1a1a;">
+      <h2 style="color: #2ecc71;">EEG Headset</h2>
+      <p style="font-size: 16px; color: #bdc3c7;">Our EEG headset is a state-of-the-art neurofeedback device designed to monitor and optimize brain activity. It is non-invasive and provides real-time feedback for cognitive enhancement.</p>
+    </div>
 
-•	Neuroimaging Headset: A sleek, wireless, non-invasive headset designed to monitor brainwave activity and provide real-time neurofeedback. Whether you're looking to improve focus, reduce stress, or enhance mental clarity, our smart headset offers tailored insights to help you understand and optimize your brain's performance.
-•	Smart Wrist Wearable: A biofeedback-powered wrist device that tracks physiological metrics such as heart rate variability, skin conductance, and body temperature. This wearable connects with our EEG headset to give a full picture of your mental and physical health, offering actionable insights and customized recommendations for holistic well-being.
+    <!-- Product 2 -->
+    <div style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; margin-bottom: 20px; background-color: #1a1a1a;">
+      <h2 style="color: #e74c3c;">Smart Wrist Wearable</h2>
+      <p style="font-size: 16px; color: #bdc3c7;">Our smart wrist wearable combines biofeedback with advanced sensors to track physical and mental well-being. It helps users manage stress, improve sleep, and monitor daily activity with ease.</p>
+    </div>
 
-Together, these devices provide a seamless and comprehensive understanding of your mind-body connection. With Sentient Biotech, you'll gain personalized feedback to support mental clarity, stress management, and overall physical wellness—all through non-invasive, natural methods.
+  </div>
 
 </div>
